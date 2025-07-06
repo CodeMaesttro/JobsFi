@@ -37,7 +37,7 @@ export default function Home() {
                   variant="outline"
                   className="w-full border-purple-400 px-8 py-6 text-lg font-semibold text-white hover:bg-purple-900/20 sm:w-auto"
                 >
-                  Browse Jobs
+                  Browse Jobs Here
                 </Button>
               </Link>
             </div>
