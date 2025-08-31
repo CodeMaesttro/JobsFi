@@ -34,7 +34,7 @@ export interface JobApplication {
   appliedAt: string
 }
 
-// Initial mock jobs
+// Initial mock jobs.
 const initialJobs: Job[] = [
   {
     id: 1,
