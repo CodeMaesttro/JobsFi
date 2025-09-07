@@ -1,37 +1,45 @@
-# JobsFi - Web3 Job Board Platform
+# JobsFi – Web3 Job Board Platform  
 
-![JobsFi Banner](https://via.placeholder.com/1200x300/4F46E5/FFFFFF?text=JobsFi+-+Web3+Job+Board)
+![JobsFi Banner](https://via.placeholder.com/1200x300/4F46E5/FFFFFF?text=JobsFi+-+Web3+Job+Board)  
 
-JobsFi is a decentralized job board platform connecting Web3 talent with innovative projects and companies. Powered by blockchain technology for transparency and security, JobsFi makes it easy to find and post jobs in the Web3 ecosystem.
+JobsFi is a decentralized job board designed to connect Web3 talent with innovative projects and companies. Built on blockchain technology, it ensures transparency, security, and trust while making it seamless to discover opportunities or hire the right talent in the Web3 ecosystem.  
 
-## 🚀 Features
+---
 
-- **Wallet Integration**: Connect your Web3 wallet to seamlessly interact with the platform
-- **Job Posting & Discovery**: Post and browse jobs with detailed information
-- **Early Access Subscription**: Subscribe with APE tokens to get early access to job postings
-- **Application Management**: Apply to jobs and track your applications
-- **Employer Dashboard**: Manage job postings and review applications
-- **Smart Contract Powered**: All job postings and applications secured by blockchain technology
-- **Decentralized Storage**: Resumes and job details stored on IPFS
+## 🚀 Key Features  
 
-## 💻 Technologies Used
+- **Wallet Integration** – Connect your Web3 wallet for seamless interaction.  
+- **Job Posting & Discovery** – Easily post jobs or browse detailed listings.  
+- **Early Access Subscription** – Unlock early access to postings with APE tokens.  
+- **Application Management** – Apply, track, and manage your job applications.  
+- **Employer Dashboard** – Streamline hiring by managing postings and reviewing candidates.  
+- **Smart Contract Powered** – Job postings and applications secured on-chain.  
+- **Decentralized Storage** – Resumes and job data stored via IPFS.  
 
-- **Frontend**: Next.js, React, TypeScript, Tailwind CSS
-- **Styling**: Tailwind CSS, shadcn/ui components
-- **Web3 Integration**: Ethereum wallet connection
-- **State Management**: React Context API
-- **Storage**: IPFS (simulated), localStorage for demo
-- **Authentication**: Wallet-based authentication
+---
 
-## 📋 Prerequisites
+## 💻 Tech Stack  
 
-- Node.js 18.x or later
-- npm or yarn
-- MetaMask or another Web3 wallet (for full functionality)
+- **Frontend**: Next.js, React, TypeScript, Tailwind CSS  
+- **UI Components**: Tailwind CSS, shadcn/ui  
+- **Web3 Integration**: Ethereum wallet connection  
+- **State Management**: React Context API  
+- **Storage**: IPFS (simulated) + localStorage for demo  
+- **Authentication**: Wallet-based login  
 
-## 🔧 Installation
+---
 
-1. Clone the repository:
+## 📋 Requirements  
+
+- Node.js **18.x** or higher  
+- npm or yarn  
+- MetaMask (or another Web3 wallet) for full functionality  
+
+---
+
+## 🔧 Installation  
+
+1. Clone the repository:  
    ```bash
    git clone https://github.com/CodeMaesttro/JobsFi.git
    cd jobsfi
